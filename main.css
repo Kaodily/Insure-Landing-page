@@ -12,7 +12,7 @@ body {
   width: 100%;
   height: 550px;
   background-color: hsl(256, 26%, 20%);
-  background-image: url(/images/bg-pattern-mobile-nav.svg);
+  background-image: url(./images/bg-pattern-mobile-nav.svg);
   background-repeat: no-repeat;
   background-position: bottom;
   background-size: contain;
@@ -79,7 +79,7 @@ body {
 
 .imgbackground {
   height: 450px;
-  background-image: url(/images/image-intro-mobile.jpg);
+  background-image: url(./images/image-intro-mobile.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -89,7 +89,7 @@ body {
   background-color: hsl(256, 26%, 20%);
   height: 450px;
   padding-top: 90px;
-  background-image: url(/images/bg-pattern-intro-left-mobile.svg);
+  background-image: url(./images/bg-pattern-intro-left-mobile.svg);
   background-repeat: no-repeat;
   background-position: top left;
   background-size: 190px;
@@ -186,7 +186,7 @@ body {
   height: 350px;
   background-color: hsl(256, 26%, 20%);
   color: white;
-  background-image: url(/images/bg-pattern-how-we-work-mobile.svg);
+  background-image: url(./images/bg-pattern-how-we-work-mobile.svg);
   background-position: top right;
   background-repeat: no-repeat;
   margin: 20px 30px;
@@ -208,7 +208,7 @@ body {
   color: hsl(276, 3%, 62%);
 }
 .logos {
-  background-image: url(/images/bg-pattern-footer-mobile.svg);
+  background-image: url(./images/bg-pattern-footer-mobile.svg);
   background-position: left top;
   background-repeat: no-repeat;
   text-align: center;
@@ -301,7 +301,7 @@ body {
   }
   .imgbackground {
     height: 450px;
-    background-image: url(/images/image-intro-mobile.jpg);
+    background-image: url(./images/image-intro-mobile.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -402,7 +402,7 @@ body {
     padding-left: 15px;
   }
   .findmore {
-    background-image: url(/images/bg-pattern-how-we-work-desktop.svg);
+    background-image: url(./images/bg-pattern-how-we-work-desktop.svg);
     background-position: top right;
     background-repeat: no-repeat;
     margin: 20px 80px;
@@ -435,7 +435,7 @@ body {
     cursor: pointer;
   }
   .logos {
-    background-image: url(/images/bg-pattern-footer-desktop.svg);
+    background-image: url(./images/bg-pattern-footer-desktop.svg);
     background-size: 700px;
     padding: 80px;
   }
